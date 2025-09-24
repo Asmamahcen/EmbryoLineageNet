@@ -1,0 +1,39 @@
+# Core scientific stack
+numpy==1.26.4
+scipy==1.11.4
+pandas==2.2.2
+scikit-learn==1.4.2
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine learning & AI
+xgboost==2.1.1
+catboost==1.2.8
+lightgbm==4.5.0
+
+# Deep learning
+torch==2.3.1
+torchvision==0.18.1
+transformers==4.44.2
+
+# NLP / Text processing
+spacy==3.7.5
+nltk==3.9.1
+sentencepiece==0.2.0
+
+# OCR & Computer vision
+pytesseract==0.3.10
+opencv-python==4.10.0.84
+Pillow==10.4.0
+
+# Data visualization
+plotly==5.24.1
+
+# Web frameworks
+Flask==3.0.3
+Django==5.0.7
+djangorestframework==3.15.2
+
+# Utilities
+tqdm==4.66.5
+joblib==1.4.2
